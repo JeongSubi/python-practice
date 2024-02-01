@@ -1,9 +1,9 @@
-# python
+# python-practice
 : python practice & mini projects
 
 ## python practice
 ```angular2html
-[python practice]
+[my-python practice]
 ```
 
 ## mini projects

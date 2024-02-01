@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lotto_draw_site_with_flask" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/movie-search-site" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-python-practice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python-practice" vcs="Git" />
   </component>
 </project>
